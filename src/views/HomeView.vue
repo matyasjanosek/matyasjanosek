@@ -153,7 +153,7 @@
           Video CV
       </button>
     </a>
-    <button onclick="window.location.href='/public/images/cv_janosek_A4final.pdf';" class="bg-[#3299CC] hover:bg-[#287aa3] text-white font-bold py-3 px-8 rounded-full">
+    <button onclick="window.location.href='/images/cv_janosek_A4final.pdf';" class="bg-[#3299CC] hover:bg-[#287aa3] text-white font-bold py-3 px-8 rounded-full">
       Download CV
     </button>
   </div>
